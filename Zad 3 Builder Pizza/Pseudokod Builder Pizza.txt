@@ -1,0 +1,30 @@
+INTERFEJS IPizzaBuilder:
+    metoda AddDough()
+    metoda AddMeat()
+    metoda AddCheese()
+    metoda AddVegetables()
+    metoda AddSpices()
+    metoda GetPizza(): Pizza
+
+KLASA Pizza:
+    Lista składników
+    metoda ToString(): string
+
+KLASA ConcretePizzaBuilder implementuje IPizzaBuilder:
+    prywatne pole Pizza
+    implementacje metod dodające składniki
+    metoda GetPizza(): zwraca zbudowaną pizzę
+
+KLASA Director:
+    metoda Construct(builder):
+        builder.AddDough()
+        builder.AddMeat()
+        builder.AddCheese()
+        builder.AddVegetables()
+        builder.AddSpices()
+
+KLIENT:
+    Tworzy builder
+    Tworzy director
+    Wywołuje Construct()
+    Pobiera pizzę z buildera i wyświetla

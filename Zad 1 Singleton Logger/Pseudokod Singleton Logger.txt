@@ -1,0 +1,15 @@
+KLASA Logger (singleton):
+    prywatna statyczna instancja klasy Logger
+    prywatna lista logów (List<string>)
+
+    prywatny konstruktor
+
+    publiczna właściwość Instance (getter):
+        jeśli instancja == null → utwórz nową instancję
+        zwróć instancję
+
+    publiczna metoda Log(string message):
+        dodaj message do listy logów
+
+    publiczna metoda GetLogs():
+        zwróć listę logów

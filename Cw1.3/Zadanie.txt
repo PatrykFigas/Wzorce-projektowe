@@ -1,0 +1,1 @@
+Proszę zaimplementować uproszczony system zarządzania działem HR w firmie wykorzystujący polimorfizm. Należy stworzyć klasę bazową Employee oraz kilka klas pochodnych reprezentujących różne typy wakatów. Następnie należy napisać program, który będzie przechowywał listę pracowników i wywoływał na nich polimorficzne metody.

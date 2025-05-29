@@ -1,0 +1,5 @@
+Proszę napisać program zgodnie z zasadami paradygmatu obiektowego.
+
+Utwórz klasę Vehicles, która zawiera następujące pola: name, manufacturer, id, mileage, years oraz dwie metody: read() i show(). Pierwsza z metod umożliwia wprowadzanie danych, natomiast druga wyświetla je na ekranie komputera.
+
+Niech program zawiera proces dziedziczenia — klasa Cars dziedziczy właściwości po klasie bazowej Vehicles i zawiera dwa dodatkowe pola: engine i color oraz dwie dodatkowe metody: read1() i show1().
