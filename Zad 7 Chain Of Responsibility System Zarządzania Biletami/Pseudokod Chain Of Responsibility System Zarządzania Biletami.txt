@@ -1,0 +1,28 @@
+class Ticket
+    property Type: string
+    property Message: string
+
+interface ISupportHandler
+    method SetNext(handler: ISupportHandler)
+    method Handle(ticket: Ticket)
+
+abstract class BaseSupportHandler implements ISupportHandler
+    property nextHandler
+    method SetNext(handler):
+        nextHandler = handler
+    method Handle(ticket):
+        if nextHandler != null:
+            nextHandler.Handle(ticket)
+
+class TechnicalSupportHandler extends BaseSupportHandler
+    method Handle(ticket):
+        if ticket.Type == "Technical":
+            obsłuż zgłoszenie
+        else:
+            super.Handle(ticket)
+
+(... analogicznie dla Billing i General)
+
+main:
+    Twórz handlerów i łańcuch
+    Przesyłaj różne bilety

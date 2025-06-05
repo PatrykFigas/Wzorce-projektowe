@@ -1,0 +1,21 @@
+interface IOldLogger
+    method LogMessage(msg: string)
+
+interface INewLogger
+    method WriteLog(level: string, msg: string)
+
+class NewLogger implements INewLogger
+    method WriteLog(level, msg)
+        print "[level]: msg"
+
+class OldToNewLoggerAdapter implements IOldLogger
+    private _newLogger: INewLogger
+
+    method LogMessage(msg)
+        _newLogger.WriteLog("INFO", msg)
+
+class SomeLegacyComponent
+    private logger: IOldLogger
+
+    method DoStuff()
+        logger.LogMessage("Operation started")

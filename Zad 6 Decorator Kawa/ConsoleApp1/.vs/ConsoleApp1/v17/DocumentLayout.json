@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 6\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{563B87D6-5E50-4E5B-9D02-FA6EB936B0BF}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\zad 6\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563B87D6-5E50-4E5B-9D02-FA6EB936B0BF}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563B87D6-5E50-4E5B-9D02-FA6EB936B0BF}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\zad 6\\consoleapp1\\sugardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563B87D6-5E50-4E5B-9D02-FA6EB936B0BF}|ConsoleApp1.csproj|solutionrelative:sugardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563B87D6-5E50-4E5B-9D02-FA6EB936B0BF}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\zad 6\\consoleapp1\\milkdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563B87D6-5E50-4E5B-9D02-FA6EB936B0BF}|ConsoleApp1.csproj|solutionrelative:milkdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563B87D6-5E50-4E5B-9D02-FA6EB936B0BF}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\zad 6\\consoleapp1\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563B87D6-5E50-4E5B-9D02-FA6EB936B0BF}|ConsoleApp1.csproj|solutionrelative:espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563B87D6-5E50-4E5B-9D02-FA6EB936B0BF}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\zad 6\\consoleapp1\\chocolatedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563B87D6-5E50-4E5B-9D02-FA6EB936B0BF}|ConsoleApp1.csproj|solutionrelative:chocolatedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563B87D6-5E50-4E5B-9D02-FA6EB936B0BF}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\zad 6\\consoleapp1\\icoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563B87D6-5E50-4E5B-9D02-FA6EB936B0BF}|ConsoleApp1.csproj|solutionrelative:icoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563B87D6-5E50-4E5B-9D02-FA6EB936B0BF}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\zad 6\\consoleapp1\\coffeedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563B87D6-5E50-4E5B-9D02-FA6EB936B0BF}|ConsoleApp1.csproj|solutionrelative:coffeedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SugarDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 6\\ConsoleApp1\\SugarDecorator.cs",
+              "RelativeDocumentMoniker": "SugarDecorator.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 6\\ConsoleApp1\\SugarDecorator.cs",
+              "RelativeToolTip": "SugarDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:35:11.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 6\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 6\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:32:19.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChocolateDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 6\\ConsoleApp1\\ChocolateDecorator.cs",
+              "RelativeDocumentMoniker": "ChocolateDecorator.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 6\\ConsoleApp1\\ChocolateDecorator.cs",
+              "RelativeToolTip": "ChocolateDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:35:44.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MilkDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 6\\ConsoleApp1\\MilkDecorator.cs",
+              "RelativeDocumentMoniker": "MilkDecorator.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 6\\ConsoleApp1\\MilkDecorator.cs",
+              "RelativeToolTip": "MilkDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:34:35.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoffeeDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 6\\ConsoleApp1\\CoffeeDecorator.cs",
+              "RelativeDocumentMoniker": "CoffeeDecorator.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 6\\ConsoleApp1\\CoffeeDecorator.cs",
+              "RelativeToolTip": "CoffeeDecorator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:34:00.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Espresso.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 6\\ConsoleApp1\\Espresso.cs",
+              "RelativeDocumentMoniker": "Espresso.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 6\\ConsoleApp1\\Espresso.cs",
+              "RelativeToolTip": "Espresso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:33:16.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICoffee.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 6\\ConsoleApp1\\ICoffee.cs",
+              "RelativeDocumentMoniker": "ICoffee.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 6\\ConsoleApp1\\ICoffee.cs",
+              "RelativeToolTip": "ICoffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:32:55.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

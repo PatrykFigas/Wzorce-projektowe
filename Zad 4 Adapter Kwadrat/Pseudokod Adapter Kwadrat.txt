@@ -1,0 +1,19 @@
+class Square:
+    side: double
+
+interface IShape:
+    getArea(): double
+
+class SquareAdapter implements IShape:
+    square: Square
+
+    getArea():
+        return square.side * square.side
+
+function printArea(shape: IShape):
+    print(shape.getArea())
+
+main:
+    square = new Square(5)
+    adapted = new SquareAdapter(square)
+    printArea(adapted)

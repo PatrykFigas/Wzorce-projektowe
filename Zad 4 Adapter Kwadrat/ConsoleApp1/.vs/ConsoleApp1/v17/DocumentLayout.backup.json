@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\3. Adapter_Decorator\\Zad 4 Adapter Kwadrat\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9AAC22-4874-4913-AC91-530EDF1F6280}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\3. adapter_decorator\\zad 4 adapter kwadrat\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9AAC22-4874-4913-AC91-530EDF1F6280}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9AAC22-4874-4913-AC91-530EDF1F6280}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\3. adapter_decorator\\zad 4 adapter kwadrat\\consoleapp1\\areaprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9AAC22-4874-4913-AC91-530EDF1F6280}|ConsoleApp1.csproj|solutionrelative:areaprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9AAC22-4874-4913-AC91-530EDF1F6280}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\3. adapter_decorator\\zad 4 adapter kwadrat\\consoleapp1\\squareadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9AAC22-4874-4913-AC91-530EDF1F6280}|ConsoleApp1.csproj|solutionrelative:squareadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9AAC22-4874-4913-AC91-530EDF1F6280}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\3. adapter_decorator\\zad 4 adapter kwadrat\\consoleapp1\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9AAC22-4874-4913-AC91-530EDF1F6280}|ConsoleApp1.csproj|solutionrelative:ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9AAC22-4874-4913-AC91-530EDF1F6280}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\3. adapter_decorator\\zad 4 adapter kwadrat\\consoleapp1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9AAC22-4874-4913-AC91-530EDF1F6280}|ConsoleApp1.csproj|solutionrelative:square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SquareAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\3. Adapter_Decorator\\Zad 4 Adapter Kwadrat\\ConsoleApp1\\SquareAdapter.cs",
+              "RelativeDocumentMoniker": "SquareAdapter.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\3. Adapter_Decorator\\Zad 4 Adapter Kwadrat\\ConsoleApp1\\SquareAdapter.cs",
+              "RelativeToolTip": "SquareAdapter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:56:27.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AreaPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\3. Adapter_Decorator\\Zad 4 Adapter Kwadrat\\ConsoleApp1\\AreaPrinter.cs",
+              "RelativeDocumentMoniker": "AreaPrinter.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\3. Adapter_Decorator\\Zad 4 Adapter Kwadrat\\ConsoleApp1\\AreaPrinter.cs",
+              "RelativeToolTip": "AreaPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:57:05.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\3. Adapter_Decorator\\Zad 4 Adapter Kwadrat\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\3. Adapter_Decorator\\Zad 4 Adapter Kwadrat\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:53:36.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\3. Adapter_Decorator\\Zad 4 Adapter Kwadrat\\ConsoleApp1\\IShape.cs",
+              "RelativeDocumentMoniker": "IShape.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\3. Adapter_Decorator\\Zad 4 Adapter Kwadrat\\ConsoleApp1\\IShape.cs",
+              "RelativeToolTip": "IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:55:28.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\3. Adapter_Decorator\\Zad 4 Adapter Kwadrat\\ConsoleApp1\\Square.cs",
+              "RelativeDocumentMoniker": "Square.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\3. Adapter_Decorator\\Zad 4 Adapter Kwadrat\\ConsoleApp1\\Square.cs",
+              "RelativeToolTip": "Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:54:58.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
