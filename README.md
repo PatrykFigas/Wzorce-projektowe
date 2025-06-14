@@ -1,1 +1,1 @@
-"# Wzorce-projektowe" 
+"# Wzorce-projektowe poznane na studiach" 
