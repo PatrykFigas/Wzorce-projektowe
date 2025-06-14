@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patry\\Desktop\\Cw1.2\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1042CA69-B45A-4320-83E9-F2DB79357497}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\cw1.2\\consoleapp1\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1042CA69-B45A-4320-83E9-F2DB79357497}|ConsoleApp1.csproj|solutionrelative:cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1042CA69-B45A-4320-83E9-F2DB79357497}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\cw1.2\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1042CA69-B45A-4320-83E9-F2DB79357497}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1042CA69-B45A-4320-83E9-F2DB79357497}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\cw1.2\\consoleapp1\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1042CA69-B45A-4320-83E9-F2DB79357497}|ConsoleApp1.csproj|solutionrelative:vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Cw1.2\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Cw1.2\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T22:17:54.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicles.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Cw1.2\\ConsoleApp1\\Vehicles.cs",
+              "RelativeDocumentMoniker": "Vehicles.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Cw1.2\\ConsoleApp1\\Vehicles.cs*",
+              "RelativeToolTip": "Vehicles.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T22:18:32.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Cw1.2\\ConsoleApp1\\Cars.cs",
+              "RelativeDocumentMoniker": "Cars.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Cw1.2\\ConsoleApp1\\Cars.cs",
+              "RelativeToolTip": "Cars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T22:19:17.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

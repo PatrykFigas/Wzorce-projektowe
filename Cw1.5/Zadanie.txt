@@ -1,0 +1,1 @@
+Proszę zaprojektować w postaci diagramu klas UML przykładowy system do zarządzania flotą busów, który śledzi ruch busów turystycznych (busy wyjeżdżające w podróż i wracające z niej) oraz kontroluje trasy (tzn. przystanki). System powinien zawierać kilka klas bazowych oraz klasy pochodne.

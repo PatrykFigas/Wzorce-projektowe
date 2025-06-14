@@ -1,0 +1,71 @@
+// Interfejs obserwatora
+interface IObserver {
+    void Update(float temperature, float humidity, float pressure);
+}
+
+// Interfejs podmiotu (subject)
+interface ISubject {
+    void RegisterObserver(IObserver o);
+    void RemoveObserver(IObserver o);
+    void NotifyObservers();
+}
+
+// Klasa WeatherStation - podmiot
+class WeatherStation : ISubject {
+    private List<IObserver> observers = new List<IObserver>();
+    private float temperature;
+    private float humidity;
+    private float pressure;
+
+    public void RegisterObserver(IObserver o) {
+        observers.Add(o);
+    }
+
+    public void RemoveObserver(IObserver o) {
+        observers.Remove(o);
+    }
+
+    public void NotifyObservers() {
+        foreach (var observer in observers) {
+            observer.Update(temperature, humidity, pressure);
+        }
+    }
+
+    public void SetMeasurements(float temp, float hum, float pres) {
+        this.temperature = temp;
+        this.humidity = hum;
+        this.pressure = pres;
+        NotifyObservers();
+    }
+}
+
+// Obserwator: wyświetla aktualne warunki
+class CurrentConditionsDisplay : IObserver {
+    public void Update(float temperature, float humidity, float pressure) {
+        Console.WriteLine($"Aktualne warunki: {temperature}°C, {humidity}% wilgotności");
+    }
+}
+
+// Obserwator: wyświetla prognozę na podstawie ciśnienia
+class ForecastDisplay : IObserver {
+    public void Update(float temperature, float humidity, float pressure) {
+        string forecast = pressure > 1013 ? "Słonecznie" : "Możliwy deszcz";
+        Console.WriteLine($"Prognoza pogody: {forecast}");
+    }
+}
+
+// Przykładowe użycie
+class Program {
+    static void Main() {
+        WeatherStation station = new WeatherStation();
+
+        CurrentConditionsDisplay currentDisplay = new CurrentConditionsDisplay();
+        ForecastDisplay forecastDisplay = new ForecastDisplay();
+
+        station.RegisterObserver(currentDisplay);
+        station.RegisterObserver(forecastDisplay);
+
+        station.SetMeasurements(25.5f, 60f, 1012f);
+        station.SetMeasurements(22.3f, 70f, 1015f);
+    }
+}

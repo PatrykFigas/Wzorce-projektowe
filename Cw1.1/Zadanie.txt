@@ -1,0 +1,9 @@
+Proszę napisać zgodnie z zasadami paradygmatu obiektowego program, który oblicza pole trapezu. Klasa powinna zawierać trzy metody:
+
+- read_data() — umożliwia wprowadzenie z klawiatury do programu niezbędne do obliczeń. W programie należy przyjąć, że boki a i b, wysokość h oraz zmienna surface_area są typu double (typu rzeczywistego)
+
+- process_data() — oblicza pole trapezu (zmienna surface_area) według wzoru odpowiedniego wzoru matematycznego
+
+- show_results() — wyświetla wartości boków a i b, wysokości h oraz wartość zmiennej surface_area w określonym formacie. 
+
+Dla zmiennych a i b oraz surface_area należy przyjąć format wyświetlania tych zmiennych na ekranie do jednego miejsca po przecinku

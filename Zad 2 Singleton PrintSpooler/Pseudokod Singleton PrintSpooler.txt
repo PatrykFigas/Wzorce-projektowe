@@ -1,0 +1,21 @@
+class PrintSpooler:
+    static instance
+    private queue
+
+    private constructor():
+        queue = new Queue
+
+    static GetInstance():
+        if instance is null:
+            instance = new PrintSpooler
+        return instance
+
+    AddJob(job):
+        queue.enqueue(job)
+
+    PrintJob():
+        if queue not empty:
+            job = queue.dequeue()
+            print "Printing: " + job
+        else:
+            print "Queue is empty"

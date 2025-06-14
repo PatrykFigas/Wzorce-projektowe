@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 5\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{619DE02F-4D28-4D43-AB12-F59F999D9CB9}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\zad 5\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DE02F-4D28-4D43-AB12-F59F999D9CB9}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DE02F-4D28-4D43-AB12-F59F999D9CB9}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\zad 5\\consoleapp1\\somelegacycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DE02F-4D28-4D43-AB12-F59F999D9CB9}|ConsoleApp1.csproj|solutionrelative:somelegacycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DE02F-4D28-4D43-AB12-F59F999D9CB9}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\zad 5\\consoleapp1\\oldtonewloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DE02F-4D28-4D43-AB12-F59F999D9CB9}|ConsoleApp1.csproj|solutionrelative:oldtonewloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DE02F-4D28-4D43-AB12-F59F999D9CB9}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\zad 5\\consoleapp1\\newlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DE02F-4D28-4D43-AB12-F59F999D9CB9}|ConsoleApp1.csproj|solutionrelative:newlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DE02F-4D28-4D43-AB12-F59F999D9CB9}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\zad 5\\consoleapp1\\inewlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DE02F-4D28-4D43-AB12-F59F999D9CB9}|ConsoleApp1.csproj|solutionrelative:inewlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DE02F-4D28-4D43-AB12-F59F999D9CB9}|ConsoleApp1.csproj|c:\\users\\patry\\desktop\\wzorce_projektowe\\zad 5\\consoleapp1\\ioldlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DE02F-4D28-4D43-AB12-F59F999D9CB9}|ConsoleApp1.csproj|solutionrelative:ioldlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SomeLegacyComponent.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 5\\ConsoleApp1\\SomeLegacyComponent.cs",
+              "RelativeDocumentMoniker": "SomeLegacyComponent.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 5\\ConsoleApp1\\SomeLegacyComponent.cs",
+              "RelativeToolTip": "SomeLegacyComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:39:48.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OldToNewLoggerAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 5\\ConsoleApp1\\OldToNewLoggerAdapter.cs",
+              "RelativeDocumentMoniker": "OldToNewLoggerAdapter.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 5\\ConsoleApp1\\OldToNewLoggerAdapter.cs",
+              "RelativeToolTip": "OldToNewLoggerAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:39:11.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewLogger.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 5\\ConsoleApp1\\NewLogger.cs",
+              "RelativeDocumentMoniker": "NewLogger.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 5\\ConsoleApp1\\NewLogger.cs",
+              "RelativeToolTip": "NewLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:37:36.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INewLogger.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 5\\ConsoleApp1\\INewLogger.cs",
+              "RelativeDocumentMoniker": "INewLogger.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 5\\ConsoleApp1\\INewLogger.cs",
+              "RelativeToolTip": "INewLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:36:53.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOldLogger.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 5\\ConsoleApp1\\IOldLogger.cs",
+              "RelativeDocumentMoniker": "IOldLogger.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 5\\ConsoleApp1\\IOldLogger.cs",
+              "RelativeToolTip": "IOldLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:36:12.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 5\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\Wzorce_Projektowe\\Zad 5\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:31:30.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

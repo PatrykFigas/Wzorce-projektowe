@@ -1,0 +1,11 @@
+Proszę stworzyć klasę BankAccount, która będzie reprezentować konto bankowe. Klasa powinna posiadać następujące właściwości:
+
+- Numer konta (typu string)
+- Saldo (typu decimal)
+
+Wszystkie właściwości powinny być prywatne i dostępne tylko poprzez metody publiczne. Klasa powinna zawierać metody do:
+
+- Pobierania numeru konta
+- Pobierania bieżącego salda
+- Dokonywania wpłat na konto
+- Dokonywania wypłat z konta (jeśli saldo jest wystarczające)

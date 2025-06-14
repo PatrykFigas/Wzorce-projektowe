@@ -1,0 +1,20 @@
+interface ICoffee
+    method GetCost(): double
+    method GetDescription(): string
+
+class Espresso implements ICoffee
+    GetCost() => 10
+    GetDescription() => "Espresso"
+
+abstract class CoffeeDecorator implements ICoffee
+    has coffee: ICoffee
+    GetCost() => coffee.GetCost()
+    GetDescription() => coffee.GetDescription()
+
+class MilkDecorator extends CoffeeDecorator
+    GetCost() => coffee.GetCost() + 2
+    GetDescription() => coffee.GetDescription() + ", Milk"
+
+class SugarDecorator extends CoffeeDecorator
+    GetCost() => coffee.GetCost() + 1
+    GetDescription() => coffee.GetDescription() + ", Sugar"
